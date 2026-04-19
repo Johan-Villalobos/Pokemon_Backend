@@ -29,7 +29,7 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: `http://localhost:${PORT}`,
+        url: `https://pokemon-backend-9mjm.onrender.com`,
         description: 'Servidor local',
       },
     ],
